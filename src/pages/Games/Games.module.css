@@ -1,0 +1,14 @@
+
+.gameItems{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.gamesContainer{
+    width: 90%;
+    margin: auto;
+}
+.gamesSelects{
+   margin: 2px;
+}

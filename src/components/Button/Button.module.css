@@ -1,0 +1,15 @@
+.gameButton{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.viewMore{
+    width: 10%;
+    height: 5vh;
+    border: none;
+    cursor: pointer;
+}
+
+.viewMore:hover{
+    opacity: 0.7;
+}

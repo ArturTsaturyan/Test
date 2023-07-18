@@ -1,0 +1,10 @@
+.GameItem{
+    margin: 10px;
+}
+.GameItemImage{
+  
+}
+.GameItemTitle{
+    text-align: center;
+    font-weight: 700;
+}

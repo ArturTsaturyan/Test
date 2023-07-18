@@ -1,0 +1,4 @@
+
+export const CURRENT_GAMES_LIST = "CURRENT_GAMES_LIST";
+export const PROVIDERS = "PROVIDERS";
+export const CURRENCY = "CURRENCY";
